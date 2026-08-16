@@ -33,11 +33,11 @@ house-price-pred-api/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+```
 ## 📸 API Results
 
 ### Single House Price Prediction
-![Prediction Result](screenshots/predict.png)
+![Prediction Result](predict.png)
 
 ### Batch CSV Prediction
-![File Prediction Result](screenshots/predict-file.png)
+![File Prediction Result](predict-file.png)
